@@ -13,6 +13,8 @@ A compiled version for WIndows 64 has been included. Currently v 0.1
 The program is a command-line program, so should be run from the terminal. Unpack it, right-click the directory and open that in the terminal and start with .\n1mm_kml_bridge
 If there is no config-file, it will create one for you. Or you download the example in the config-directory, adjust it to your liking and save it in the program's directory, then start it. Please remember the QRZ-password is stored unencrypted, but if you leave the password-field empty, you can enter the password every time you start the program.
 
+Open Google Earth and add a Networklink to the KML-file. Click the Refresh-tab and set it to e.g. Frequent refresh at 30 sec. Don't forget to tick the "Fly to" box.
+
 Inspiration for this program is the contest-station OT5A where the IT-geeks created a similar program.
 
 Hope you enjoy it.
