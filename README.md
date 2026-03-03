@@ -17,6 +17,8 @@ Open Google Earth and add a Networklink to the KML-file. Click the Refresh-tab a
 
 Inspiration for this program is the contest-station OT5A where the IT-geeks created a similar program.
 
+Demovideo at https://youtu.be/mm8UcqjuAXA
+
 Hope you enjoy it.
 
 73, Martin - PE1EEC
